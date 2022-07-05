@@ -12,8 +12,8 @@ This theme will be built with high contrast, so it will be useful for colorblind
 
 | Color             | Hex                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Base Color | <img src"https://via.placeholder.com/10/0a192f/0a192f"> #0a192f |
-| Tab Color | <img src"https://via.placeholder.com/10/f8f8f8/f8f8f8"> #f8f8f8 |
+| Base Color | <img src="https://via.placeholder.com/10/0a192f/0a192f"> #0a192f |
+| Tab Color | <img src="https://via.placeholder.com/10/f8f8f8/f8f8f8"> #f8f8f8 |
 
 ## Screenshots
 
