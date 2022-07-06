@@ -1,1 +1,15 @@
-
+{
+    "manifest_version": 3,
+    "name": "Dystopia Chrome Theme",
+    "version": "1.0",
+    "description": "Dystopia Chrome Theme, based on the Dystopia theme by @santosvdw",
+    "author": "santosvdw",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/santosvdw/dystopia-chrome-theme.git"
+    },
+    "bugs": {
+        "url": "https://github.com/santosvdw/dystopia-chrome-theme/issues"
+    },
+    "homepage": "https://github.com/santosvdw/dystopia-chrome-theme#readme"
+}
