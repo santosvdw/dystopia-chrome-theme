@@ -1,7 +1,7 @@
 
 # Chrome extension (theme)
 
-This theme will be built with high contrast, so it will be useful for colorblind people
+This theme will include my favorite colors
 
 
 ## Authors
