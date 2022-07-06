@@ -1,0 +1,13 @@
+{
+    "colors": {
+        "purple": "#8D5A97",
+        "pink": "#FF9FB2",
+        "green": "#3AB795",
+        "black": "#040403",
+        "white": "#EDEAD0"
+    },
+    "fonts": {
+        "primary": "\"Open Sans\", sans-serif",
+        "secondary": "\"Open Sans\", sans-serif"
+    }
+}
