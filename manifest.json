@@ -8,14 +8,14 @@
 
     "theme": {
         "colors": {
-            "frame": [39, 43, 53],
+            "frame": [4, 4, 3],
             "frame_incognito": [39, 43, 53],
             "frame_inactive": [39, 43, 53],
             "frame_incognito_inactive": [39, 43, 53],
-            "toolbar": [39, 43, 53],
+            "toolbar": [32, 33, 36],
             "tab_text": [199, 146, 234],
-            "tab_background_text": [255, 255, 255],
-            "bookmark_text": [255, 255, 255]
+            "tab_background_text": [230, 230, 230],
+            "bookmark_text": [228, 210, 240]
         }
     },
 
