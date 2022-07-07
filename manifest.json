@@ -1,29 +1,22 @@
 {
     "manifest_version": 3,
     "name": "Dystopia Chrome Theme",
+    "short_name": "Dystopia Theme",
     "version": "1.0",
     "description": "Dystopia Chrome Theme, based on the Dystopia theme by @santosvdw",
     "author": "santosvdw",
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/santosvdw/dystopia-chrome-theme.git"
-    },
-    "bugs": {
-        "url": "https://github.com/santosvdw/dystopia-chrome-theme/issues"
-    },
-    "homepage": "https://github.com/santosvdw/dystopia-chrome-theme#readme",
 
-    "type": "theme",
-
-    "colors": {
-        "frame": [39, 43, 53],
-        "frame_incognito": [39, 43, 53],
-        "frame_inactive": [39, 43, 53],
-        "frame_incognito_inactive": [39, 43, 53],
-        "toolbar": [39, 43, 53],
-        "tab_text": [199, 146, 234],
-        "tab_background_text": [255, 255, 255],
-        "bookmark_text": [255, 255, 255]
+    "theme": {
+        "colors": {
+            "frame": [39, 43, 53],
+            "frame_incognito": [39, 43, 53],
+            "frame_inactive": [39, 43, 53],
+            "frame_incognito_inactive": [39, 43, 53],
+            "toolbar": [39, 43, 53],
+            "tab_text": [199, 146, 234],
+            "tab_background_text": [255, 255, 255],
+            "bookmark_text": [255, 255, 255]
+        }
     },
 
     "icons": {
